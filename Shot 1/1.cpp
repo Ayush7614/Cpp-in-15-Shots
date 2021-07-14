@@ -1,4 +1,4 @@
-/* Shot 1 * Hello World / 
+/* Shot 1  Hello World */ 
 
 #include<iostream>
 using namespace std;
