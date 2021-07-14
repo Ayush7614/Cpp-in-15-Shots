@@ -10,4 +10,4 @@
 ### `Table of Contents`
 | SNo. | **Contents** |
 | ---  | ---------    |
-| 1.   | [Hello World+ Get Started + Syntax] |
+| Day 1.   | [Hello World+ Get Started + Syntax] |
