@@ -74,3 +74,29 @@ Ayush Kumar!
 A software Developer!
   
 */  
+
+/* Another way to insert a new line, is with the endl manipulator:
+
+*/
+
+/* Both \n and endl are used to break lines. However, \n is used more often and is the preferred way.
+
+*/
+
+#include<iostream>
+using namespace std;
+
+int main(){
+	cout << "Hello World!" << endl;
+  cout<<"Ayush Kumar!\n";
+	cout<<"A software Developer!";
+	return 0;
+}
+
+/* Output 
+
+Hello World!
+Ayush Kumar!
+A software Developer!
+
+*/
