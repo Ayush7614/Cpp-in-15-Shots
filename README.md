@@ -10,4 +10,6 @@
 ### `Table of Contents`
 | SNo. | **Contents** |
 | ---  | ---------    |
-| Day 1.   | [Hello World+ Get Started + Syntax] |
+| Shot 1.   | [Hello World + Get Started + Syntax] |
+| Shot 2.   | [Output + Comments + Variable + User Inputs ] |
+
