@@ -12,4 +12,4 @@
 | ---  | ---------    |
 | Shot 1.   | [Hello World + Get Started + Syntax] |
 | Shot 2.   | [Output + Comments + Variable + User Inputs ] |
-
+| Shot 3.   | [ Variable + User Inputs ] |
