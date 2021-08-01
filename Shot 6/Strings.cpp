@@ -44,3 +44,15 @@ int main(){
   return 0;
 }  
   
+/* Append function
+A string in C++ is actually an object, which contain functions that can perform certain operations on strings. For example, you can also concatenate strings with the append() function:*/
+include<iostream>
+#include<string>
+using namespace std;
+int main(){
+	string firstname = "Ayush";
+	string lastname = "Kumar";
+	string fullname = firstname.append(lastname);
+	cout << fullname;
+	return 0;
+}
