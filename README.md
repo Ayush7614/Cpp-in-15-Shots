@@ -15,6 +15,6 @@
 | Shot 3.   | [ Variable + User Inputs ] |
 | Shot 4.   | [ Variable + User Inputs ] |
 | Shot 5.   | [ Data Types + Operators ] |
-| Shot .   | [ Operators + Strings ] |
+| Shot 6.   | [ Operators + Strings ] |
 
 
